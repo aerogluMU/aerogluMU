@@ -2,8 +2,6 @@ Hi There! 👋
 
 I'M ALPEREN EROGLU
 
-LET ME INTRODUCE MYSELF
-
 I am a young electrical and electronics engineer 👨‍💻 who continues his undergraduate education 👨🏻‍🎓, is eager to learn 🤓, has high working energy 💪, is strong in human relations 👌, is suitable for teamwork ✍️, and is social 🙋‍♂️.
 
 I worked with various subjects such as software, embedded systems, microcontrollers, circuit board design and drawing, web development and image processing.
