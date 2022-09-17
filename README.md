@@ -1,3 +1,13 @@
+<div align="center">
+  <img alt="Demo" src="./src/6337561.jpg" />
+
+<br/>
+
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)]() &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#visit-my-linkedin-profile) &nbsp;
+
+</div>
+
 Hi There! 👋
 
 I'M ALPEREN EROGLU
@@ -8,10 +18,8 @@ I worked with various subjects such as software, embedded systems, microcontroll
 
 In my professional life, I aim to gain experience especially in embedded systems. I also aim to gain experience in image processing. I want to work selflessly in positions where I can gain experience in line with my goals.
 
-## My Github Page
+### <a href="https://aeroglumu.github.io/My-Portfolio-WebSite/" target="_blank">Visit My LinkedIn Profile</a>
 
-You can visit my github page <a href="https://aeroglumu.github.io/My-Portfolio-WebSite/" target="_blank">from here</a>.
+### <a href="https://aeroglumu.github.io/My-Portfolio-WebSite/" target="_blank">My Github Page</a>
 
-## My Heroku Portfolio
-
-You can also visit my heroku portfolio <a href="https://alpereneroglu.herokuapp.com" target="_blank">from here</a>.
+### <a href="https://alpereneroglu.herokuapp.com" target="_blank">My Heroku Portfolio</a>
