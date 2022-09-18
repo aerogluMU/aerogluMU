@@ -36,4 +36,4 @@ In my professional life, I aim to gain experience especially in embedded systems
 
 You can support me on BuyMeACoffee!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alpereneroglu)
+<a href="https://www.buymeacoffee.com/alpereneroglu" rel="nofollow"><img src="https://raw.githubusercontent.com/aerogluMU/aerogluMU/main/src/buymeacoffee.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
