@@ -17,7 +17,6 @@ In my professional life, I aim to gain experience especially in embedded systems
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alperen-eroglu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alperen-eroglu"/></a>
-<a href="https://alpereneroglu.herokuapp.com" target="blank"><img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="alperen-eroglu"/></a>
 </p>
 
 <h3 align="left">View My Resume:</h3>
