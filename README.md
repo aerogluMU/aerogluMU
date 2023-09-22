@@ -7,9 +7,9 @@
 </div>
 I am a young electrical and electronics engineer 👨‍💻 is eager to learn 🤓, has high working energy 💪, is strong in human relations 👌, is suitable for teamwork ✍️, and is social 🙋‍♂️.
 
-I worked with various subjects such as software, embedded systems, microcontrollers, circuit board design and drawing, web development and image processing.
+I worked with various subjects such as software, embedded systems, microcontrollers, circuit board design and drawing, web development, and image processing.
 
-In my professional life, I aim to gain experience especially in embedded systems. I also aim to gain experience in image processing. I want to work selflessly in positions where I can gain experience in line with my goals.
+In my professional life, I aim to gain experience, especially in embedded systems. I also aim to gain experience in image processing. I want to work selflessly in positions where I can gain experience in line with my goals.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeroglumu&label=Profile%20views&color=0e75b6&style=flat" alt="aeroglumu" /> </p>
